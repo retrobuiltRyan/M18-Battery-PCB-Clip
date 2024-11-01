@@ -19,3 +19,11 @@ Item	Description	P/N	$/ Each (10+ qty)	Qty	Line Total	Vendor	Notes
 7	TERM BLK 2POS SIDE ENT 3.5MM PCB	732-2747-ND	0.88	2	1.76	DigiKey	
 					4.158		
 ![image](https://github.com/user-attachments/assets/e8f7f820-1fa2-4808-add2-3872c6c169a4)
+
+Some ATC fuses with increasing amp rating (digikey P/N).
+F4191-ND (1 amp)
+F4192-ND (2 amp)
+F4193-ND (3 amp)
+F4194-ND (4 amp)
+F4197-ND (5 amp)
+F4198-ND (7.5 amp)
