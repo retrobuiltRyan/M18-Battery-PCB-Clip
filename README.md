@@ -8,11 +8,10 @@ https://youtu.be/-Zz8GCWLFTs
 ![P1100419](https://github.com/user-attachments/assets/ec0372de-abf6-4da7-82e9-2ab3f26a7eb7)
 ![P1100414](https://github.com/user-attachments/assets/beac9eee-0855-45e0-bd37-8f1f54066365)
 
-BoM to build whats in video. (lol why wont this render as a table?)
+BoM to build whats in video. 
 
 |Item	|Description	|P/N	|$/ Each |	Qty|	Line Total|	Vendor	Notes|
-
-|--------------------------------------------------------------------------------------------------------|
+|-----|-------------|-----|---------|----|------------|--------------------|
 |1|	Battery Spade-Board (PCB to Board solder)|	A100452CT-ND	|0.084	|2|	0.168|	DigiKey	|
 |2|	FUSE CLIP BLADE 500V 30A PCB	|36-3557-ND|	0.24|	2|	0.48|	DigiKey	|
 |3|	M3 Threaded Insert	|94459A130	|0.275|	2	|0.55|	McMaster|	
@@ -21,10 +20,10 @@ BoM to build whats in video. (lol why wont this render as a table?)
 |6|	FUSE AUTO 2A 32VDC BLADE ATO/ATC|	F4192-ND|	0.38|	1|	1|	DigiKey	example 2Amp|
 |7|	TERM BLK 2POS SIDE ENT 3.5MM PCB|	732-2747-ND|	0.88	|2	|1.76|	DigiKey	|
 
-4.158	
+Total Cost 4.16
 
 
-![image](https://github.com/user-attachments/assets/e8f7f820-1fa2-4808-add2-3872c6c169a4)
+
 
 Some ATC fuses with increasing amp rating (digikey P/N).
 F4191-ND (1 amp)
