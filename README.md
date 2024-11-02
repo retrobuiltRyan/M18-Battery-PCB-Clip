@@ -26,10 +26,12 @@ Total Cost 4.16
 
 
 Some ATC fuses with increasing amp rating (digikey P/N).
-F4191-ND (1 amp)
-F4192-ND (2 amp)
-F4193-ND (3 amp)
-F4194-ND (4 amp)
-F4197-ND (5 amp)
-F4198-ND (7.5 amp)
-F4199-ND (10 amp)
+| PN | Amperage|
+|----|---------|
+|F4191-ND| 1 amp|
+|F4192-ND| 2 amp|
+|F4193-ND| 3 amp|
+|F4194-ND| 4 amp|
+|F4197-ND| 5 amp|
+|F4198-ND| 7.5 amp|
+|F4199-ND| 10 amp|
