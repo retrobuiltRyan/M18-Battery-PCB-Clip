@@ -25,13 +25,15 @@ Total Cost 4.16
 
 
 
-Some ATC fuses with increasing amp rating (digikey P/N).
-| PN | Amperage|
-|----|---------|
-|F4191-ND| 1 amp|
-|F4192-ND| 2 amp|
-|F4193-ND| 3 amp|
-|F4194-ND| 4 amp|
-|F4197-ND| 5 amp|
-|F4198-ND| 7.5 amp|
-|F4199-ND| 10 amp|
+Some ATC fuses with increasing amp rating (digikey P/N) for reference. Do not take this as a suggestion to push this much current through this PCB! 
+| PN | Amperage| notes|
+|----|---------|------|
+|F4191-ND| 1 amp| |
+|F4192-ND| 2 amp| |
+|F4193-ND| 3 amp| |
+|F4194-ND| 4 amp| I would not exceed this unless you  monitor temp and duration. |
+|F4197-ND| 5 amp| risky|
+|F4198-ND| 7.5 amp| uh, not confident on this|
+|F4199-ND| 10 amp| haha I do not think 1oz copper will survive|
+
+Safety Claim here: basically do not use your batteries in any way outside what the manufacturer claims.  Specc
