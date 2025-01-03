@@ -1,6 +1,6 @@
 # M18-Battery-PCB-Clip
 Clip-on PCBs with spade terminals compatible with Milwaukee M18 battery packs. 
-https://youtu.be/-Zz8GCWLFTs
+https://youtu.be/rkWTQf_fx88
 
 ![P1100437](https://github.com/user-attachments/assets/ee64d6ab-c08d-48b7-a5c6-b3ada54877be)
 ![P1100436](https://github.com/user-attachments/assets/e55b9321-e286-4443-8142-17e128838322)
