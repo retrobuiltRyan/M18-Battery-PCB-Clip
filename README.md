@@ -36,4 +36,4 @@ Some ATC fuses with increasing amp rating (digikey P/N) for reference. Do not ta
 |F4198-ND| 7.5 amp| uh, not confident on this|
 |F4199-ND| 10 amp| haha I do not think 1oz copper will survive|
 
-Safety Claim here: basically do not use your batteries in any way outside what the manufacturer claims.  Specc
+Safety Claim here: Do not use your batteries in any way outside what the manufacturer claims. 
